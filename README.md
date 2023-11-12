@@ -1,8 +1,6 @@
 ## Hi, I'm Bowang Lan 👋
 
-I'm a software engineer and an astronomy student at the University of Washington. I love building web applications, exploring data, and learning new technologies. I'm also passionate about astronomy and astrophysics, and I enjoy working on research projects related to these fields.
-
-
+I'm a software engineer and an astronomy student at the University of Washington. I love building aesthetic and impactful web applications, exploring data, and learning new technologies. I'm also passionate about astronomy and astrophysics, and I enjoy working on research projects related to these fields.
 
 ### 🌱 What I'm learning
 
