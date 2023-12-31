@@ -4,11 +4,12 @@ I'm a software engineer and an astronomy student at the University of Washington
 
 ### 🌱 What I'm learning
 
-- Swift (IOS Development)
-- React Native
+- RAG LLM Application Development
+- SvelteKit
 - AWS
-- Distributed Systems
-- Elastic Search
+- Distributed Systems & Microservices
+- Golang
+- React Native
 
 ### 💬 How to reach me
 
