@@ -4,7 +4,7 @@ I'm a software engineer and an astronomy student at the University of Washington
 
 ### 🌱 What I'm learning
 
-- RAG LLM Application Development
+- Graph Database (Neo4j) & Knowledge Graph
 - SvelteKit
 - AWS
 - Distributed Systems & Microservices
