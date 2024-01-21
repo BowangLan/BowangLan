@@ -1,6 +1,15 @@
 ## Hi, I'm Bowang Lan 👋
 
-I'm a software engineer and an astronomy student at the University of Washington. I love building aesthetic and impactful web applications, exploring data, and learning new technologies. I'm also passionate about astronomy and astrophysics, and I enjoy working on research projects related to these fields.
+I'm a software engineer and an astronomy student at the University of Washington. I love building aesthetic and impactful web applications and exploring data and making connections between data. 
+
+I love:
+
+- Next.js
+- Vercel
+- TailwindCSS
+- Prisma
+- T3 Stack
+- Svelte
 
 ### 🌱 What I'm learning
 
@@ -20,8 +29,8 @@ I'm a software engineer and an astronomy student at the University of Washington
 ### ⚡ Fun facts
 
 - I love playing badminton!
-- I'm fluent in English, Mandarin
-- I'm a fan of sci-fi and fantasy books and movies
+- I'm fluent in English and Mandarin
+- I'm a fan of sci-fi and fantasy books, movies, and TV Series
 
 
 <!--
