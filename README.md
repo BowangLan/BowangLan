@@ -2,7 +2,7 @@
 
 I'm a software engineer and an astronomy student at the University of Washington. I love building aesthetic and impactful web applications and exploring data and making connections between data. 
 
-I love:
+### I love
 
 - Next.js
 - Vercel
@@ -10,6 +10,13 @@ I love:
 - Prisma
 - T3 Stack
 - Svelte
+
+### What I'm Currently Working On
+
+- ChatGPT Archive (a Chrome Extension for ChatGPT)
+- Better Grades (a Chrome Extension for Canvas for students)
+- Learn Astro (a website/learning platform for preparing for astronomy competitions)
+- WebGem (a website containing a collection of inspiring portfolio websites)
 
 ### 🌱 What I'm learning
 
