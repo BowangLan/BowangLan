@@ -25,6 +25,7 @@ I'm a software engineer and an astronomy student at the University of Washington
 
 - Graph Database (Neo4j) & Knowledge Graph
 - SvelteKit
+- Three.js
 - AWS
 - Azure
 - Distributed Systems & Microservices
