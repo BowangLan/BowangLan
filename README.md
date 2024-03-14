@@ -5,6 +5,7 @@ I'm a software engineer and an astronomy student at the University of Washington
 ### ❤️ What I Love 
 
 - Next.js
+- shadcn-ui
 - Vercel
 - TailwindCSS
 - Prisma
@@ -12,7 +13,6 @@ I'm a software engineer and an astronomy student at the University of Washington
 - Svelte
 - FastAPI
 - Pydantic
-- httpx
 
 ### 🎯 What I'm Currently Working On
 
