@@ -1,4 +1,4 @@
-## Hi, I'm Bowang Lan 👋
+## Hi, I'm Jeffrey Lan 👋
 
 I'm a software engineer, an aspiring entreprenuar, and an astronomy student at the University of Washington. I love building aesthetic and impactful web and mobile applications and exploring data and making connections between data. 
 
@@ -8,7 +8,8 @@ I'm a software engineer, an aspiring entreprenuar, and an astronomy student at t
 - shadcn-ui
 - Vercel
 - TailwindCSS
-- Prisma
+- Drizzle ORM
+- Lucia (JS Authentication Library)
 - T3 Stack
 - Svelte
 - FastAPI
@@ -16,6 +17,7 @@ I'm a software engineer, an aspiring entreprenuar, and an astronomy student at t
 
 ### 🎯 What I'm Currently Working On
 
+- Toural (a next-generation sports tournament management system)
 - [ChatGPT Archive](https://chatgptarchive.dev/) (a Chrome Extension for ChatGPT)
 - Better Grades (a Chrome Extension for Canvas for students)
 - Learn Astro (a website/learning platform for preparing for astronomy competitions)
@@ -23,8 +25,9 @@ I'm a software engineer, an aspiring entreprenuar, and an astronomy student at t
 
 ### 🌱 What I'm learning
 
+- HTMX
 - Graph Database (Neo4j) & Knowledge Graph
-- SvelteKit
+- Svelte & SvelteKit
 - Three.js
 - AWS
 - Azure
