@@ -1,6 +1,6 @@
 ## Hi, I'm Jeffrey Lan 👋
 
-I'm a software engineer, an aspiring entreprenuar, and an astronomy student at the University of Washington. I love building aesthetic and impactful web and mobile applications and exploring data and making connections between data. 
+I'm a software engineer, founder, and astronomy student at University of Washington. I love building aesthetic and impactful web and mobile applications and exploring data and making connections between data. 
 
 ### ❤️ What I Love 
 
