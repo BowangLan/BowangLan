@@ -17,7 +17,7 @@ I'm a software engineer, founder, and astronomy student at University of Washing
 
 ### 🎯 What I'm Currently Working On
 
-- Toural (a next-generation sports tournament management system)
+- [Toural](https://touralsports.com) (a next-generation sports tournament management system)
 - [ChatGPT Archive](https://chatgptarchive.dev/) (a Chrome Extension for ChatGPT)
 - Better Grades (a Chrome Extension for Canvas for students)
 - Learn Astro (a website/learning platform for preparing for astronomy competitions)
