@@ -5,9 +5,10 @@ I'm a software engineer, founder, and astronomy student at University of Washing
 ### ❤️ What I Love 
 
 - Next.js & React
-- React Native
+- React Native & Expo
 - shadcn-ui
 - Vercel
+- Railway.io
 - TailwindCSS
 - Drizzle ORM
 - Lucia (JS Authentication Library)
