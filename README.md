@@ -4,14 +4,14 @@ I'm a software engineer, founder, and astronomy student at University of Washing
 
 ### ❤️ What I Love 
 
-- Next.js
+- Next.js & React
+- React Native
 - shadcn-ui
 - Vercel
 - TailwindCSS
 - Drizzle ORM
 - Lucia (JS Authentication Library)
 - T3 Stack
-- Svelte
 - FastAPI
 - Pydantic
 
@@ -23,7 +23,7 @@ I'm a software engineer, founder, and astronomy student at University of Washing
 - Learn Astro (a website/learning platform for preparing for astronomy competitions)
 - [WebGem](https://webgem.club/) (a website containing a collection of inspiring portfolio websites)
 
-### 🌱 What I'm learning
+### 🌱 What I'm learning & Plan to Learn
 
 - HTMX
 - Graph Database (Neo4j) & Knowledge Graph
@@ -33,7 +33,6 @@ I'm a software engineer, founder, and astronomy student at University of Washing
 - Azure
 - Distributed Systems & Microservices
 - Golang
-- React Native
 
 ### 💬 How to reach me
 
