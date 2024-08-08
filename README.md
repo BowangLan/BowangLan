@@ -34,12 +34,13 @@ I'm a software engineer, founder, and astronomy student at University of Washing
 - Azure
 - Distributed Systems & Microservices
 - Golang
+- Rust
 
 ### 💬 How to reach me
 
 - Email: blan2@uw.edu
-- LinkedIn: https://linkedin.com/in/bowang-lan
-- Website: https://bowanglan.dev
+- LinkedIn: [linkedin.com/jeffrey-lan](https://linkedin.com/in/jeffrey-lan)
+- Website: [jeffbl.dev](https://jeffbl.dev)
 
 ### ⚡ Fun facts
 
