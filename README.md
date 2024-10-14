@@ -6,6 +6,7 @@ I'm a software engineer, founder, and astronomy student at University of Washing
 
 - Next.js & React
 - React Native & Expo
+- Golang
 - shadcn-ui
 - Vercel
 - Railway.io
@@ -34,7 +35,6 @@ I'm a software engineer, founder, and astronomy student at University of Washing
 - AWS
 - Azure
 - Distributed Systems & Microservices
-- Golang
 - Rust
 
 ### 💬 How to reach me
