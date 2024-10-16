@@ -28,14 +28,32 @@ I'm a software engineer, founder, and astronomy student at University of Washing
 
 ### 🌱 What I'm learning & Plan to Learn
 
-- HTMX
-- Graph Database (Neo4j) & Knowledge Graph
-- Svelte & SvelteKit
-- Three.js
+Web & JS Stuff
+
+- Hono (Web Framework)
+- Deno
+- Bun
+- Tanstack Start (Web Framework)
+- Svelte & Svelte Kit (Web Framework)
+- One (Web Framework)
+- Redwood JS (Web Framework)
+- mobx-state-tree (State Management)
+- Three.js & react-three-fiber
+
+Cloud Stuff
+
+- Pulumi
 - AWS
 - Azure
-- Distributed Systems & Microservices
+
+Databases
+
+- Graph Database (Neo4j) & Knowledge Graph
+
+Languages
+
 - Rust
+- Zig
 
 ### 💬 How to reach me
 
