@@ -19,19 +19,17 @@ I'm a software engineer, founder, and astronomy student at University of Washing
 
 ### 🎯 What I'm Currently Working On
 
-- Violet (a dating app for college students)
-- [Toural](https://touralsports.com) (a next-generation sports tournament management system)
-- [ChatGPT Archive](https://chatgptarchive.dev/) (a Chrome Extension for ChatGPT)
-- Better Grades (a Chrome Extension for Canvas for students)
-- Learn Astro (a website/learning platform for preparing for astronomy competitions)
-- [WebGem](https://webgem.club/) (a website containing a collection of inspiring portfolio websites)
+- [YouTube Muse](https://youtubemuse.app) - Lightweight music player for YouTube
+- [Husky Search](https://huskysearch.fyi) - Course search & planning tool for UW students
+- C3 - Desktop app for Canvas LMS for teachers
+- Tourius - Mobile app for tournamentsoftware.com
+- Personal boilerplates for various platforms (Next.js, Expo & React Native, etc.)
+- My own UI component library
 
 ### 🌱 What I'm learning & Plan to Learn
 
 Web & JS Stuff
 
-- Hono (Web Framework)
-- Deno
 - Bun
 - Tanstack Start (Web Framework)
 - Svelte & Svelte Kit (Web Framework)
